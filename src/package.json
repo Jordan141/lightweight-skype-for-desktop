@@ -1,11 +1,11 @@
 {
 	"name": "electron-quick-start",
 	"version": "1.0.0",
-	"description": "A	minimal	Electron	application",
+	"description": "A minimal Electron application",
 	"main": "main.js",
 	"scripts": {
-		"start": "electron	.",
-		"test": "mocha"
+		"start": "electron .",
+		"test": "electron-mocha ."
 	},
 	"repository": "https://github.com/electron/electron-quick-start",
 	"keywords": [
