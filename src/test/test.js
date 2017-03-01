@@ -10,7 +10,6 @@ describe('Array', function() {
 describe('thisIsATest', () => {
 	it('is an object', () => {
 		if (typeof thisIsATest !== 'object'){
-			console.log('thisIsATest', thisIsATest)
 			throw Error('thisIsATest is not an object')
 		}
 	})
